@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Snehal Patil.</h1>
+ <h1 align="center">Hi 👋, I'm Snehal Patil.</h1>
 <h3 align="center">A passionate full stack developer from India(Pune)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalpatil1244&label=Profile%20views&color=0e75b6&style=flat" alt="snehalpatil1244" /> </p>
 
-- 🌱 I’m currently learning **Web Development, C_Sharp.Net**
+- 🌱 I’m currently learning **C,C++ Full Stack Web and .Net  Development.**
 
 - 💬 Ask me about **JavaScript, CPP.**
 

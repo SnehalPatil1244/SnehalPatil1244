@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Snehal Patil.</h1>
 <h3 align="center">A passionate full stack developer from India(Pune)</h3>
-<p align="center"> <img src="https://camo.githubusercontent.com/d4fe6c988622bfb69fa8f656af02b354a46d474a34f94d5374ac0abcb5e3c37c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a797730546e686541474e2d4c506e654461546c6178772e676966" alt="snehalpatil1244" height="30%" /> </p>
+<p align="center"> <img src="https://camo.githubusercontent.com/d4fe6c988622bfb69fa8f656af02b354a46d474a34f94d5374ac0abcb5e3c37c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a797730546e686541474e2d4c506e654461546c6178772e676966" alt="snehalpatil1244" height="300" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalpatil1244&label=Profile%20views&color=0e75b6&style=flat" alt="snehalpatil1244" /> </p>
 

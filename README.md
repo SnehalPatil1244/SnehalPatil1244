@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C,C++, Full Stack Web and .Net  Development.**
 
-- 💬 Ask me about **JavaScript., CPP.**
+- 💬 Ask me about **JavaScript, CPP.**
 
 - 📫 How to reach me **patilsnehal1469@gmail.com**
 

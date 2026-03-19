@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalpatil1244&label=Profile%20views&color=0e75b6&style=flat" alt="snehalpatil1244" /> </p>
 
-- 🌱 I’m currently learning **C,C++, Full Stack Web and .Net  Development.**
+- 🌱 I’m currently learning **MEAN STACK Developer.**
 
-- 💬 Ask me about **JavaScript, CPP.**
+- 💬 Ask me about **JavaScript.**
 
 - 📫 How to reach me **patilsnehal1469@gmail.com**
 
